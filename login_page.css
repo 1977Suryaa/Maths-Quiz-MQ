@@ -1,0 +1,18 @@
+*{
+    padding:0px;
+    margin:0px;
+
+}
+
+body{
+    height:100vh;
+    background-color: blueviolet;
+
+}
+#player11{
+    padding:30px;
+
+}
+h1{
+    font-size:30px;
+}
